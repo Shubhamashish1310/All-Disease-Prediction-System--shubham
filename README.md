@@ -1,1 +1,1 @@
-# machine-learning-projects
+# machine-learning-projects DIABATES PREDICTION USING MACHINE LEARNING
